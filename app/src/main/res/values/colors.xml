@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#343746</color>
+    <color name="colorPrimaryDark">#292a35</color>
+    <color name="colorAccent">#f79b4b</color>
+    <color name="colorPrimaryLight">#595C6F</color>
+
+    <color name="colorTransparentRipple">#00FFFFFF</color>
+
+    <color name="white">#ffffff</color>
+    <color name="blue">#5369da</color>
+    <color name="red">#eb5b42</color>
+    <color name="gradYellow">#f79b4b</color>
+    <color name="gradCherry">#de395d</color>
+
+
+</resources>

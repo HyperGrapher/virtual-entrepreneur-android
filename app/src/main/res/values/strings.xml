@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Entrepreneur</string>
+    <string name="bottom_nav_profile">Profile</string>
+    <string name="bottom_nav_home">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_create">Create</string>
+    <string name="title_profile">Profile</string>
+
+</resources>
