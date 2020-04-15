@@ -11,6 +11,7 @@ import com.hypergraph.entrepreneur.core.BaseActivity
  * Other base classes can be created for convenience
  * Examples:
  * https://github.com/android10/Android-CleanArchitecture-Kotlin/tree/master/app/src/main/kotlin/com/fernandocejas/sample/core/platform
+ * https://proandroiddev.com/mvi-on-android-with-livedata-coroutines-d2172bc7f775
  */
 
 
